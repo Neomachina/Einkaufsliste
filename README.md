@@ -8,4 +8,4 @@ Age ∈ [20,30]
 
 *(hat den Großteil dieser Syntax von David Geigle copiert weil gute Programmierer möglichst wenig selber arbeiten.)*
 
-Bild: ![image](C:\Users\Daniel\Desktop\Games\YGO\MSE%20-%20Stuff\Images\Event%20stuff)
+Bild: ![image](https://i.pinimg.com/originals/28/80/14/288014eb6a70b951a1a104e5eadf0d36.jpg)
